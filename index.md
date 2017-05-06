@@ -10,7 +10,7 @@
   Dongguan University of Technology, Undergraduate, computer science and Technology
 
 ## Skills
- - HTML,CSS,HTML5,CSS3 `skilled`
+ - HTML, CSS, HTML5, CSS3  `skilled`
  - JavaScript,jQuery
  - Bootstrap
  - Ajax,json
