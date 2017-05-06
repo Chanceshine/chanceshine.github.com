@@ -2,26 +2,17 @@
 
 # Resume
 ## About me
-* Objective：Web front - end development engineer
-* email：zyd.web@qq.com
+- Career Objective：Web front - end development engineer
+- E-mail：zyd.web@qq.com
+- Intention city：DongGuan,ShenZhen,Guangzhou
+ 
+## Eduction
+  Dongguan University of Technology, Undergraduate, computer science and Technology
 
-- Bulleted
-- List
+## Skills
+ - HTML,CSS,HTML5,CSS3 `skilled`
+ - JavaScript,jQuery
+ - Bootstrap
+ - Ajax,json
+ - A little understanding of PHP
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chanceshine/chanceshine.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
