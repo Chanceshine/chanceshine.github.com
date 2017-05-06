@@ -5,7 +5,7 @@
 - Career Objective：Web front - end development engineer
 - E-mail：zyd.web@qq.com
 - Intention city：DongGuan,ShenZhen,GuangZhou
- 
+
 ## Eduction
   Dongguan University of Technology, Undergraduate, computer science and Technology
 
