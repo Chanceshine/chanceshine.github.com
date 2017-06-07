@@ -11,10 +11,11 @@
 
 ## Skills
  - HTML, CSS, HTML5, CSS3  `skilled`
- - JavaScript,jQuery
+ - JavaScript,jQuery,Vue
  - Bootstrap
  - Ajax,json
- - A little understanding of PHP
+ - less,webpack
+ - PHP
 
 ## Thanks
   Thank you for taking the time to read my resume
