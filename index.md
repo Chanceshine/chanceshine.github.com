@@ -26,6 +26,7 @@
  - <a href="http://www.latest-ray.com/">雷特斯勒官网</a>
  - <a href="http://www.huozhiyin.net/">活之印官网</a>
  - <a href="http://www.rentw.net/">厦门宸希机械有限公司</a>
+ - <a href="http://www.chequ666.com/">蓝海工艺</a>
  - ......
 
 ## Thanks
